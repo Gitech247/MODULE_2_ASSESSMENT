@@ -1,2 +1,2 @@
 # MODULE_2_KNOWLEDGE_CHECK
-Answers to Module_2 Knowledge Check
+Questions and Answers to Module_2 Knowledge Check 1- 10
